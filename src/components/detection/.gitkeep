@@ -1,0 +1,2 @@
+# Components / Detection
+Domain components for WakeWatch: Camera feed viewport, bounding box / landmark overlays, drowsiness meter, alertness status pills, and audio-visual alert triggers.
