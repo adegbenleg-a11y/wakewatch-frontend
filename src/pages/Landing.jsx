@@ -334,7 +334,7 @@ export default function Landing() {
               Team is Alerted
             </h3>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
-              Supervisors receive real-time telemetry pills. If a prolonged sleeping threshold (>2.5s) is confirmed, an instant audio chime awakens the user.
+              Supervisors receive real-time telemetry pills. If a prolonged sleeping threshold (&gt; 2.5s) is confirmed, an instant audio chime awakens the user.
             </p>
           </div>
         </div>
